@@ -19,12 +19,8 @@ final List<Task> tasksCompleted = [
   Task(name: "Esercizio Flutter", date: "2023-05-01", time: "10:00")
 ];
 
-void main() {
-  runApp(const MainApp());
-}
-
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
+class Dash extends StatelessWidget {
+  const Dash({super.key});
 
   @override
   Widget build(BuildContext context) {

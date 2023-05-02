@@ -1,3 +1,3 @@
-# task_app
+# Task App
 
-A new Flutter project.
+Bonus lesson for "Flutter 101" course.
