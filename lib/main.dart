@@ -4,6 +4,10 @@ import 'classes/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 
+void main() {
+  runApp(const Home());
+}
+
 class Home extends StatelessWidget {
   const Home({super.key});
 
